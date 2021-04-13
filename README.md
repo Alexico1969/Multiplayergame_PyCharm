@@ -1,2 +1,2 @@
 # Multiplayergame_PyCharm
-Try-out where I use PyCharm to create a multi-player game
+Try-out where I use PyGame to create a multi-player game
